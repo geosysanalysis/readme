@@ -13,24 +13,27 @@ This section talks about the basic structure of the `GoeSysAnalysis` Github Orga
 
 ![](https://user-images.githubusercontent.com/865381/37910942-c2c8c012-30dc-11e8-910b-1bda5b22fb25.png)
 
-            ________________            ________________    
-            |  Proj Team 1 |            |  Proj Team 2 |
-            |    ______    |            |    ______    |
-            |   |      |\  |            |   |      |   |
-Dev Team A--|   | Repo | \ |            |   | Repo |   |------Dev Team A
-            |   |______|  \|            |   |______|   |
-            |              |            |              |
-            |    ______    |\           |    ______    |
-            |   |      |   | \          |   |      |   |
-            |   | Repo |---|--Dev Team C|   | Repo |---|--Dev Team D
-            |   |______|   | /          |   |______|   | /
-            |              |/           |              |/
-            |    ______    |            |    ______    |
-            |   |      |  /|            |   |      |  /|
-Dev Team B--|   | Repo | / |            |   | Repo | / |
-            |   |______|/  |            |   |______|/  |
-            |              |            |              |
-            |______________|            |______________|
+```
+                        ________________            ________________    
+                        |  Proj Team 1 |            |  Proj Team 2 |
+                        |    ______    |            |    ______    |
+                        |   |      |\  |            |   |      |   |
+            Dev Team A--|   | Repo | \ |            |   | Repo |   |------Dev Team A
+                        |   |______|  \|            |   |______|   |
+                        |              |            |              |
+                        |    ______    |\           |    ______    |
+                        |   |      |   | \          |   |      |   |
+                        |   | Repo |---|--Dev Team C|   | Repo |---|--Dev Team D
+                        |   |______|   | /          |   |______|   | /
+                        |              |/           |              |/
+                        |    ______    |            |    ______    |
+                        |   |      |  /|            |   |      |  /|
+            Dev Team B--|   | Repo | / |            |   | Repo | / |
+                        |   |______|/  |            |   |______|/  |
+                        |              |            |              |
+                        |______________|            |______________|
+```
+
             
 ## Organization Details 
 
