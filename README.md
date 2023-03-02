@@ -54,7 +54,7 @@ This section talks about the basic structure of the `GoeSysAnalysis` Github Orga
 ## Organization Details 
 
 This section talks about the Project Teams in the `GoeSysAnalysis` GitHub Organization (updated 03022023)
-* [Hydrus](https://github.com/orgs/geosysanalysis/teams/hydrus)
-* [MSCP](https://github.com/orgs/geosysanalysis/teams/mscp)
-* [rivereyes](https://github.com/orgs/geosysanalysis/teams/rivereyes)
+* [Hydrus](https://github.com/orgs/geosysanalysis/teams/Project-hydrus)
+* [MSCP](https://github.com/orgs/geosysanalysis/teams/Project-mscp)
+* [rivereyes](https://github.com/orgs/geosysanalysis/teams/Project-rivereyes)
 
