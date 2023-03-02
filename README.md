@@ -5,6 +5,7 @@ This repo contains standards and structure for geosysanalysis organization
 ## What is Github?
 
 * Github has [some fantastic documentation about what it is](https://docs.github.com/en/get-started/quickstart/hello-world). 
+* On Github [clone, add, commit, push, pull](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/)
 
 In short: Github is a code hosting platform that makes it easier to version control, share, and document code for yourself and for others. 
 
