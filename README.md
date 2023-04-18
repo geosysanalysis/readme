@@ -57,4 +57,5 @@ This section talks about the Project Teams in the `GoeSysAnalysis` GitHub Organi
 * [Hydrus](https://github.com/orgs/geosysanalysis/teams/Project-hydrus)
 * [MSCP](https://github.com/orgs/geosysanalysis/teams/Project-mscp)
 * [rivereyes](https://github.com/orgs/geosysanalysis/teams/Project-rivereyes)
+* [Bisbee](https://github.com/orgs/geosysanalysis/teams/project-bisbee)
 
